@@ -4,7 +4,7 @@
 
 #include <math.h>
 
-#include <tPlanet.hpp>
+#include <Planet.hpp>
 
 using namespace sf;
 
